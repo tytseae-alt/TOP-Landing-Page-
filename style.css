@@ -29,12 +29,12 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 10px 90px;
+    padding: 10px 220px;
 }
 
 .title {
     display: flex;
-    padding: 10px 90px 90px;
+    padding: 100px 220px 110px 220px;
     justify-content: space-between;
 }
 
