@@ -107,3 +107,9 @@ body {
     margin: 0 120px; 
     gap: 20px;
 }
+
+.subtext {
+    padding: 10px;
+    display: flex; 
+    text-align: center;
+}
