@@ -34,6 +34,11 @@ body {
     padding: 10px 90px;
 }
 
+.title {
+    display: flex;
+    padding: 10px 90px;
+}
+
 .title .left h3 {
     font-size: 48px;
     color: #F9FAF8;
@@ -45,8 +50,6 @@ body {
 }
 
 .image {
-    width: 600px;
-    height: 250px;
     background-color: darkgray;
     color: #E5E7EB;
     display: flex;
