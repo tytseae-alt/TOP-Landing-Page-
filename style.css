@@ -40,6 +40,22 @@ body {
     justify-content: space-between;
 }
 
+.left {
+    flex-grow: 1;
+    flex-basis: 50%;
+}
+
+.image {
+    background-color: darkgray;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    flex-basis: 50%;
+    padding: 30px;
+}
+
 .title .left h3 {
     margin: 0px;
     font-size: 48px;
@@ -51,11 +67,3 @@ body {
     color: #E5E7EB;
 }
 
-.image {
-    background-color: darkgray;
-    color: #E5E7EB;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 30px;
-}
