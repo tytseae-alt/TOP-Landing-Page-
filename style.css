@@ -79,6 +79,7 @@ body {
 }
 
 .description .image {
+    box-sizing: border-box;
     border-style: solid;
     border-color: rgb(2, 131, 211);
     border-radius: 10px;
