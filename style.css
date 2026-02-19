@@ -101,4 +101,5 @@ body {
 }
 .content {
     display: flex;
+    margin: 0 120px; 
 }
