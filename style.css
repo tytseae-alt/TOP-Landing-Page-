@@ -11,15 +11,12 @@ body {
     list-style-type: none;
     margin-top: 0px;
     display: flex;
+    gap: 20px;
 }
 
 .logo {
     font-size: 24px;
     color: #F9FAF8;
-}
-
-.top .header ul li {
-    margin: 0 30px 0 0 ;
 }
 
 .top .header ul li a {
