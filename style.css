@@ -1,9 +1,15 @@
 body {
     font-family: sans-serif;
+    margin: 0px;
 }
 .top {
-    display: flex;
-    flex-direction: column;
+    background-color: #1F2937;
+    border-style: none;
+    padding: 0px;
+    margin: 0px;
+    
+    
+  
 }
 
 .top .header ul {
