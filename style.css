@@ -81,8 +81,9 @@ body {
 .description .image {
     border-style: solid;
     border-color: lightskyblue;
-    padding: 20px;
+    border-radius: 10px;
     background-color: white;
+    padding: 20%;
 }
 
 .middle {
