@@ -36,10 +36,12 @@ body {
 
 .title {
     display: flex;
-    padding: 10px 90px;
+    padding: 10px 90px 90px;
+    justify-content: space-between;
 }
 
 .title .left h3 {
+    margin: 0px;
     font-size: 48px;
     color: #F9FAF8;
 }
@@ -55,4 +57,5 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 30px;
 }
