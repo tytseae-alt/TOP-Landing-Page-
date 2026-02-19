@@ -1,0 +1,12 @@
+.top {
+    display: flex;
+    flex-direction: column;
+}
+.top .header ul {
+    display: flex;
+
+}
+
+.header {
+    display: flex;
+}
