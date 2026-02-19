@@ -32,3 +32,13 @@ body {
     display: flex;
     justify-content: space-around;
 }
+
+.title .left h3 {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.title .left .text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
