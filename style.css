@@ -66,3 +66,15 @@ body {
     font-weight: 100;
 }
 
+.title .left button {
+    background-color: #3882F6;
+    color:aliceblue;
+    margin: 25px 0;
+    border: none;
+    padding: 10px 32px;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
