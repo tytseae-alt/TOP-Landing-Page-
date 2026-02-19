@@ -101,11 +101,13 @@ body {
     font-weight: 900;
     font-size: 36px;
     color: #1F2937;
+    padding: 0 220px;
 }
 .content {
     display: flex;
     margin: 0 120px; 
     gap: 20px;
+    padding: 0 220px;
 }
 
 .subtext {
