@@ -80,9 +80,12 @@ body {
 
 .description .image {
     border-style: solid;
-    border-color: lightskyblue;
+    border-color: rgb(2, 131, 211);
     border-radius: 10px;
+    border-width: 3px;
     background-color: white;
+    width: 80px;
+    height: 80px;
     padding: 20%;
 }
 
