@@ -31,12 +31,12 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 10px 90px;
+    padding: 10px 220px;
 }
 
 .title {
     display: flex;
-    padding: 10px 90px 90px;
+    padding: 100px 220px 110px 220px;
     justify-content: space-between;
 }
 
@@ -68,3 +68,52 @@ body {
     font-weight: 100;
 }
 
+.title .left button {
+    background-color: #3882F6;
+    color:aliceblue;
+    margin: 25px 0;
+    border: none;
+    padding: 10px 32px;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.description .image {
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: rgb(2, 131, 211);
+    border-radius: 10px;
+    border-width: 3px;
+    background-color: white;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+
+.middle {
+    display: flex;
+    flex-direction: column;
+}
+
+.middle h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    font-size: 36px;
+    color: #1F2937;
+    padding: 0 220px;
+}
+.content {
+    display: flex;
+    margin: 0 120px; 
+    gap: 20px;
+    padding: 0 220px;
+}
+
+.subtext {
+    padding: 10px;
+    display: flex; 
+    text-align: center;
+}
