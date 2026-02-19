@@ -42,3 +42,13 @@ body {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.image {
+    width: 600px;
+    height: 250px;
+    background-color: darkgray;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
