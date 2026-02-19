@@ -78,3 +78,9 @@ body {
     cursor: pointer;
 }
 
+.description .image {
+    border-style: solid;
+    border-color: lightskyblue;
+    padding: 20px;
+    background-color: white;
+}
