@@ -3,10 +3,16 @@
     flex-direction: column;
 }
 .top .header ul {
+    margin-top: 0px;
     display: flex;
 
 }
 
+.top .header ul li {
+    margin: 0 10px 0 0 ;
+}
+
 .header {
     display: flex;
+    justify-content: space-around;
 }
