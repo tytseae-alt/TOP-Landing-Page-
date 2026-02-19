@@ -30,7 +30,8 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding: 10px 90px;
 }
 
 .title .left h3 {
