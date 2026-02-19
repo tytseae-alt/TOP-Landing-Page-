@@ -117,3 +117,20 @@ body {
     display: flex; 
     text-align: center;
 }
+
+.quote {
+    background-color: #E5E7EB;
+}
+.words {
+    font-size: 36px;
+}
+
+.author {
+    font-size: 23px;
+    font-weight: 900;
+}
+.words {
+    color: #1F2937;
+    font-weight: 100;
+    font-style: italic;
+}
