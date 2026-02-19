@@ -84,3 +84,8 @@ body {
     padding: 20px;
     background-color: white;
 }
+
+.middle {
+    display: flex;
+    flex-direction: column;
+}
