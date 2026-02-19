@@ -2,15 +2,22 @@
     display: flex;
     flex-direction: column;
 }
+
 .top .header ul {
     list-style-type: none;
     margin-top: 0px;
     display: flex;
 }
 
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
 .top .header ul li {
     margin: 0 10px 0 0 ;
 }
+
 .top .header ul li a {
     font-size: 18px;
     text-decoration: none;
