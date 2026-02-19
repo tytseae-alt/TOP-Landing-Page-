@@ -42,6 +42,7 @@ body {
 }
 
 .left {
+    padding-right: 40px;
     flex-grow: 1;
     flex-basis: 50%;
 }
