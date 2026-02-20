@@ -154,7 +154,7 @@ h6 {
     padding: 60px 110px;
 }
 
-.call button {
+.wrapper button {
     height: fit-content;
     padding: 10px 32px;
     background-color: #3882F6;
@@ -165,4 +165,5 @@ h6 {
     text-align: center;
     text-decoration: none;
     cursor: pointer;
+    font-weight: bold;
 }
