@@ -145,5 +145,5 @@ body {
     border-radius: 6px;
     margin: 100px 220px 110px 220px;
     display: flex;
-
+    justify-content: space-between;
 }
