@@ -126,6 +126,8 @@ body {
 }
 
 .author {
+    display: flex;
+    justify-content: flex-end;
     font-size: 23px;
     font-weight: 900;
     padding: 0 400px 100px;
