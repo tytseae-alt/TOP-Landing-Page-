@@ -149,11 +149,18 @@ body {
 }
 h6 {
     margin: 0px;
+    font-size: 30px;
+        color:aliceblue;
+
 }
 .wrapper {
     padding: 60px 110px;
 }
 
+.wrapper .text2 {
+    font-size: 15px;
+    color: rgba(226, 228, 230, 0.815);
+}
 .wrapper button {
     height: fit-content;
     padding: 10px 32px;
