@@ -155,12 +155,12 @@ h6 {
 }
 
 .call button {
+    height: fit-content;
+    padding: 10px 32px;
     background-color: #3882F6;
     color:aliceblue;
-    margin: 25px 0;
     border-style: solid;
     border-color: aliceblue;
-    padding: 10px 32px;
     border-radius: 8px;
     text-align: center;
     text-decoration: none;
