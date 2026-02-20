@@ -139,3 +139,9 @@ body {
     padding: 50px 400px 0px;
     margin-bottom: 0px;
 }
+
+.call {
+    background-color:#3882F6;
+    border-radius: 6px;
+    margin: 100px 220px 110px 220px
+}
