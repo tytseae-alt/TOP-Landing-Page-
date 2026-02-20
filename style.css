@@ -147,3 +147,9 @@ body {
     display: flex;
     justify-content: space-between;
 }
+h6 {
+    margin: 0px;
+}
+.wrapper {
+    padding: 60px 110px;
+}
